@@ -20,7 +20,10 @@ class PhuwadolSuphapinyo:
         self.role = "Data Science Student"
         self.programmer_language = ["Python", "SQL", "R"]
         self.tools = ['Pyspark', 'Power BI', 'RapidMiner', 'Azure', 'AWS']
-        self.skils = ['Image Processing', 'Sentiment Analysis', 'Machine Learning', 'Deep Learning', 'Data Visualization', 'Data Cleansing', 'Database', 'ETL', 'Cloud Computing'
+        self.skils = [
+                      'Image Processing', 'Sentiment Analysis', 'Machine Learning', 'Deep Learning',
+                      'Data Visualization', 'Data Cleansing', 'Database', 'ETL', 'Cloud Computing'
+                     ]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
