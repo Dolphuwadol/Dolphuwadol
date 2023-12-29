@@ -4,7 +4,7 @@
   
 </em></p>
 
-[![Linkedin: phuwadol suphapinyo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadolsuphapinyo/)](https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/))
+[![Linkedin: phuwadol suphapinyo](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadolsuphapinyo/)](https://www.linkedin.com/in/phuwadolsuphapinyo/](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/))
 [![Gmail](![image](https://github.com/Dolphuwadol/Myprofile/assets/121854744/c2603546-c2ad-44b5-8df7-02854332d739)
 )](mailto:phuwadol1909@gmail.com)
 
