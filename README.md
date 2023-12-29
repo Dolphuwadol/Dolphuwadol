@@ -7,7 +7,7 @@
 [![Linkedin: phuwadol suphapinyo](https://img.shields.io/badge/-phuwadolsuphapinyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadolsuphapinyo/)](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/)
 
 
-[![Gmail](https://raw.githubusercontent.com/Dolphuwadol/Myprofile/main/assets/121854744/c2603546-c2ad-44b5-8df7-02854332d739.png)](mailto:phuwadol1909@gmail.com)
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png)](mailto:phuwadol1909@gmail.com)
 
 
 
