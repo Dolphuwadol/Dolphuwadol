@@ -1,5 +1,5 @@
 <h2> Hi, I'm Phuwadol Suphapinyo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/inspiration-idea-eureka-WOBagRT66RcgEvaTxE/fullscreen)" width="230">
+<img align='right' src="[https://giphy.com/gifs/inspiration-idea-eureka-WOBagRT66RcgEvaTxE/fullscreen]" width="230">
 <p><em>Data Science Student at University of Phayao 
   
 </em></p>
