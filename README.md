@@ -1,14 +1,40 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phuwadol Suphapinyo
-===========================================================================================================================================
+<h2> Hi, I'm Phuwadol Suphapinyo! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://giphy.com/gifs/inspiration-idea-eureka-WOBagRT66RcgEvaTxE/fullscreen)" width="230">
+<p><em>Data Science Student at University of Phayao 
+  
+</em></p>
 
-Third year student
-------------------
+[![Linkedin: phuwadol suphapinyo]([https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/))
+[![Gmail](![image](https://github.com/Dolphuwadol/Myprofile/assets/121854744/c2603546-c2ad-44b5-8df7-02854332d739)
+)](mailto:phuwadol1909@gmail.com)
 
-I have been studying code for 3 years. I am interested in Python and SQL. Currently, I'am studying about data engineering.
 
-* 🌍  I'm based in Phayao, Thailand
-* ✉️  You can contact me at [phuwadol1909@gmail.com](mailto:phuwadol1909@gmail.com)
-* 🧠  I'm learning Apache Airflow, Apache kafka, ETL tools
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+
+class PhuwadolSuphapinyo:
+
+    def __init__(self):
+        self.name = "Phuwadol Suphapinyo"
+        self.role = "Data Science Student"
+        self.programmer_language = ["Python", "SQL", "R"]
+        self.tools = ['Pyspark', 'Power BI', 'RapidMiner', 'Azure', 'AWS']
+        self.skils = ['Image Processing', 'Sentiment Analysis', 'Machine Learning', 'Deep Learning', 'Data Visualization', 'Data Cleansing', 'Database', 'ETL', 'Cloud Computing'
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = PhuwadolSuphapinyo()
+me.say_hi()
+
+```
+
+<img src="![image](https://github.com/Dolphuwadol/Myprofile/assets/121854744/d682ff80-f59f-4968-b565-59f03a51daf1)
+" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 ### Skills
 
