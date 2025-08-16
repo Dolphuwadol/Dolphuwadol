@@ -4,7 +4,7 @@
   
 </em></p>
 
-[![Linkedin: phuwadol suphapinyo](https://img.shields.io/badge/-phuwadolsuphapinyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadolsuphapinyo/)](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-phuwadolsuphapinyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadolsuphapinyo/)](https://www.linkedin.com/in/phuwadol-suphapinyo-487ba3288/)
 Gmail : phuwadol1909@gmail.com
 
 
